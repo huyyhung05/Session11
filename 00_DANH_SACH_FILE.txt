@@ -1,0 +1,26 @@
+PHAN HUY HUNG - CNTT1 - NHAP MON CNTT - SESSION 10
+
+File trả lời:
+- CNTT1_NhapMonCNTT_Session10_Ex01.docx ... Ex06.docx
+- CNTT1_NhapMonCNTT_Session10_BTVN07.docx ... BTVN12.docx
+- CNTT1_NhapMonCNTT_Session10_BaiTongHop.docx
+
+Sản phẩm thực hành:
+- Ex02_ThietBi_IoT.xlsx
+- Ex03_DonHang_VLOOKUP.xlsx
+- Ex04_Slide_DoanhThu.pptx
+- Ex05_ThuMoiPhongVan.docx
+- Ex05_QuanLyUngVien.xlsx
+- Ex06_SRS_TuoiNuoc.docx
+- Ex06_LinhKien_KhachHang.xlsx
+- Ex06_Slide_ThiTruong_NongNghiep.pptx
+- BTVN08_BaoCaoVien.xlsx
+- BTVN09_VLOOKUP_TacGia.xlsx
+- BTVN11_KeHoachHoiNghi2027.docx
+- BTVN11_HoiNghi2027.xlsx
+- BTVN11_SlideKhaiMac2027.pptx
+
+Bài tổng hợp Quản lý Thư viện:
+- SRS_ThuVien.docx
+- PhieuMuon_ThuVien.xlsx
+- SlideBaoCao.pptx
